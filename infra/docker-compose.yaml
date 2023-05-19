@@ -10,7 +10,6 @@ services:
       - ./.env
   web:
     image: kimas6/yamdb:latest
-    # build: ../api_yamdb/
     restart: always
     volumes:
       - static_value:/app/static/
