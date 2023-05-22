@@ -196,6 +196,9 @@ DB_NAME=postgres
 ## Ссылка на локально развернутый проект
 http://localhost/admin/
 
+## Ccылка на развернутый проект на сервере
+http://158.160.48.191/admin/
+
 # Использованные технологии:
 
 * [python](https://www.python.org/doc/)
