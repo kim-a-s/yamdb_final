@@ -193,6 +193,8 @@ GET /api/v1/titles/{title_id}/reviews/{review_id}/comments/{comment_id}/
 DB_NAME=postgres
 ```
 
+## Ссылка на локально развернутый проект
+http://localhost/admin/
 
 # Использованные технологии:
 
